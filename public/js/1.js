@@ -215,7 +215,7 @@ eval("module.exports = \"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAsC
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("module.exports = __webpack_require__.p + \"img/menu_logo.39eba1d4.svg\";\n\n//# sourceURL=webpack:///./src/img/menu_logo.svg?");
+eval("module.exports = __webpack_require__.p + \"img/menu_logo.e772ce79.svg\";\n\n//# sourceURL=webpack:///./src/img/menu_logo.svg?");
 
 /***/ }),
 
