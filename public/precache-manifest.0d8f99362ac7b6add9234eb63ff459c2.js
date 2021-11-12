@@ -172,7 +172,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/tinymce/skins/ui/oxide/skin.shadowdom.min.css"
   },
   {
-    "revision": "98fe9223cfca9f5a59ad",
+    "revision": "9c5443ad0fdc6a9115b3",
     "url": "/css/app.b3d3f753.css"
   },
   {
@@ -572,12 +572,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/upload.f7d81377.png"
   },
   {
-    "revision": "1cde378be208cd3d1d095a72710d208e",
+    "revision": "73d1da75f466b0eedda3f7dc47ccda09",
     "url": "/index.html"
   },
   {
-    "revision": "98fe9223cfca9f5a59ad",
-    "url": "/js/app.73742296.js"
+    "revision": "9c5443ad0fdc6a9115b3",
+    "url": "/js/app.a9f4d1a6.js"
   },
   {
     "revision": "a129baf82084f22e153a",
@@ -592,8 +592,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-02f3eebe.f486f07a.js"
   },
   {
-    "revision": "f2853868cf6db5fb3d68",
-    "url": "/js/chunk-0605cb06.a8efcb66.js"
+    "revision": "8b1cba8d7e79ee7207fc",
+    "url": "/js/chunk-0605cb06.17cc41ee.js"
   },
   {
     "revision": "90f6af0114aebca3b251",
