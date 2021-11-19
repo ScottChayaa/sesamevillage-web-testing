@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="274" height="83" viewBox="0 0 274 83">
+  <defs>
+    <rect id="index_menu_dec-a" width="275" height="83" x="0" y="0"/>
+    <circle id="index_menu_dec-d" cx="135.5" cy="-68" r="137.5"/>
+    <filter id="index_menu_dec-c" width="116.4%" height="116.4%" x="-8.2%" y="-7.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.37 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="index_menu_dec-b" fill="#fff">
+      <use xlink:href="#index_menu_dec-a"/>
+    </mask>
+    <g mask="url(#index_menu_dec-b)">
+      <use fill="#000" filter="url(#index_menu_dec-c)" xlink:href="#index_menu_dec-d"/>
+      <use fill="#FCE84D" xlink:href="#index_menu_dec-d"/>
+    </g>
+  </g>
+</svg>
