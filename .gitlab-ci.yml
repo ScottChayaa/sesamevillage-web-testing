@@ -1,6 +1,6 @@
 pages:
   script:
-    - cp public/index.html public/404.html
+    - cp _redirects public/_redirects
   artifacts:
     expire_in: 1 day
     paths:
